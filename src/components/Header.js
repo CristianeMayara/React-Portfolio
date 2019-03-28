@@ -28,11 +28,11 @@ export default class Header extends Component {
                   Skills
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a className="smoothscroll" href="#portfolio">
                   Portifólio
                 </a>
-              </li>
+              </li> */}
               {/* <li>
                 <a className="smoothscroll" href="#testimonials">
                   Testimonials
