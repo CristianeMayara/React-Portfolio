@@ -1,11 +1,10 @@
 let resumeData = {
   imagebaseurl: "https://rbhatia46.github.io/",
   name: "Cristiane Ferreira",
-  role: "Frontend and Mobile Developer",
+  role: "Desenvolvedora React Front-End e Mobile",
   linkedinId: "cristianemayara",
   skypeid: "cris.mayara_3",
-  roleDescription:
-    "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  roleDescription: "",
   socialLinks: [
     {
       name: "linkedin",
@@ -24,8 +23,8 @@ let resumeData = {
     }
   ],
   aboutme:
-    "I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-  address: "Florianópolis, SC, Brasil",
+    "Atualmente sou desenvolvedora Front-End React, com experiência em projetos mobile para Android e iOS.",
+  address: "Florianópolis - SC, Brasil",
   website: "https://cristianemayara.github.io",
   education: [
     {
