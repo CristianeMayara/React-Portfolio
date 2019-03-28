@@ -18,7 +18,7 @@ let resumeData = {
     },
     {
       name: "skype",
-      url: "http://twitter.com/cris.mayara_3",
+      url: "/cris.mayara_3",
       className: "fa fa-skype"
     }
   ],
