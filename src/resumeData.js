@@ -59,8 +59,14 @@ let resumeData = {
       Achievements: "Some Achievements"
     }
   ],
-  skillsDescription: "Your skills here",
+  skillsDescription: "",
   skills: [
+    {
+      skillname: "ReactJS"
+    },
+    {
+      skillname: "React Native"
+    },
     {
       skillname: "HTML5"
     },
@@ -68,7 +74,10 @@ let resumeData = {
       skillname: "CSS"
     },
     {
-      skillname: "Reactjs"
+      skillname: "Javascript"
+    },
+    {
+      skillname: "Android"
     }
   ],
   portfolio: [
