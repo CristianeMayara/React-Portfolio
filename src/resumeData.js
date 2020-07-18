@@ -1,7 +1,7 @@
 let resumeData = {
   imagebaseurl: "https://rbhatia46.github.io/",
   name: "Cristiane Ferreira",
-  role: "Desenvolvedora React Front-End e Mobile",
+  role: "Desenvolvedora FrontEnd e Mobile",
   linkedinId: "cristianemayara",
   skypeid: "cris.mayara_3",
   roleDescription: "",
@@ -23,8 +23,8 @@ let resumeData = {
     }
   ],
   aboutme:
-    "Atualmente sou desenvolvedora Front-End React, com experiência em projetos mobile para Android e iOS.",
-  address: "Florianópolis - SC, Brasil",
+    "Atualmente sou desenvolvedora FrontEnd e Mobile, com experiência em projetos Web, Android e iOS.",
+  address: "São Paulo, Brasil",
   website: "https://cristianemayara.github.io",
   education: [
     {
@@ -61,6 +61,9 @@ let resumeData = {
   skillsDescription: "",
   skills: [
     {
+      skillname: "Javascript"
+    },
+    {
       skillname: "ReactJS"
     },
     {
@@ -73,10 +76,7 @@ let resumeData = {
       skillname: "CSS"
     },
     {
-      skillname: "Javascript"
-    },
-    {
-      skillname: "Android"
+      skillname: "NodeJS"
     }
   ],
   portfolio: [
